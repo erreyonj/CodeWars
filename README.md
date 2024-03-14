@@ -3,7 +3,7 @@ Public Facing log of all my completed CW challenges(NO solutions visible)
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](CW-Profile Progress/CW Profile 3_14_24.png)
 
 ## How It's Made:
 
