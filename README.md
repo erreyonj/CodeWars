@@ -11,6 +11,7 @@ JavaScript
 Since I've made it to 6 Rank, I'm pumping the brakes a bit and focusing on fundamentals for a while
 
 ## All Solutions Under Private Repo:
+https://github.com/erreyonj/CodeWars-private
 
 
 
