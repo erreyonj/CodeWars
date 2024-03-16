@@ -5,5 +5,6 @@
 // The input string will only consist of lower case letters and/or spaces.
 
 function getCount(str) {
-    str.split('').filter(ltr=>ltr === 'a' ||ltr === 'e' ||ltr === 'i' ||ltr === 'o' ||ltr === 'u')    
+    str.split('').filter(ltr=>ltr === 'a' ||ltr === 'e' ||ltr === 'i' ||ltr === 'o' ||ltr === 'u').length
 }
+// success
