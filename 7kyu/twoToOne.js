@@ -20,4 +20,4 @@ function longest(s1, s2) {
     let s3 = '';
     both.split('').forEach(x=>s3.indexOf(x)===-1 ? s3 += x : '')
     return s3.split('').sort((a,b)=>a.localeCompare(b)).join('')
-}
+} 
