@@ -1,7 +1,7 @@
 # CodeWars-public
 Log of all my completed CW challenges
 
-![CodeWars Profile Stats Image as of 3/14/24](https://github.com/erreyonj/CodeWars-public/blob/57845857b7197bdd8c89b0c089082b44e3036769/CW-Profile%20Progress/CW%20Profile%203_14_24.png)
+![CodeWars Profile Stats Image as of 4/18/24](https://github.com/erreyonj/CodeWars/blob/781a6d09c3b7590f0ab512a9688e43c4e262619c/CW-Profile%20Progress/CW%20Profile%204_18_24.png)
 
 
 **Languages** 
